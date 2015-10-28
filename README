@@ -14,6 +14,8 @@ Tetris Game // All the features except pause and resume are available now
 
 Detailed game Screenshots and the core Algorithm were offered by the one developed in Shell
 
+Simply compile and run the game using any of the following methods!
+
 Compile the source code :
    Run
        make
